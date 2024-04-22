@@ -2,7 +2,7 @@
 
 let accessToken;
 const clientID = "44c39a79025d4190a2289a5c47165956";
-const redirectUrl = "http://localhost:3000";
+const redirectUrl = "https://kaunfell.github.io/Jammming";
 
 
 
